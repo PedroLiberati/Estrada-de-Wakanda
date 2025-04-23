@@ -1,0 +1,5 @@
+100 4
+0 BirnZana
+30 Golden City
+60 JabiriLand
+90 Wakanda
